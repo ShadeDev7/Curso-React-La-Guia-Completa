@@ -1,7 +1,7 @@
 # Curso: React - La Guía Completa.
 
 -   **Creado por:** [Juan de la torre](https://twitter.com/codigoconjuan)
--   **Enlace:** [Udemy](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/)
+-   **Enlace:** [Udemy](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones)
 
 # Secciones📌
 
@@ -10,7 +10,7 @@
 -   **Sección 3:** ✅
 -   **Sección 4:** ✅
 -   **Sección 5:** ✅
--   **Sección 6:** ❌
+-   **Sección 6:** ✅ [Link a la Página](https://seguimiento-veterinaria.netlify.app)
 -   **Sección 7:** ❌
 -   **Sección 8:** ❌
 -   **Sección 9:** ❌
