@@ -11,7 +11,7 @@
 -   **Sección 4:** ✅
 -   **Sección 5:** ✅
 -   **Sección 6:** ✅ [Link a la Página](https://seguimiento-veterinaria.netlify.app)
--   **Sección 7:** ❌
+-   **Sección 7:** ✅ [Link a la Página](https://planificador-de-tus-gastos.netlify.app)
 -   **Sección 8:** ❌
 -   **Sección 9:** ❌
 -   **Sección 10:** ❌
