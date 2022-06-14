@@ -13,7 +13,7 @@
 -   **Sección 6:** ✅ [Link a la Página](https://seguimiento-veterinaria.netlify.app)
 -   **Sección 7:** ✅ [Link a la Página](https://planificador-de-tus-gastos.netlify.app)
 -   **Sección 8:** ✅ [Link a la Página](https://cotiza-tus-criptomonedas.netlify.app)
--   **Sección 9:** ❌
+-   **Sección 9:** ✅ [Link a la Página](https://administra-tus-clientes.netlify.app)
 -   **Sección 10:** ❌
 -   **Sección 11:** ❌
 -   **Sección 12:** ❌
